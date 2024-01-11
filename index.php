@@ -45,7 +45,7 @@
 
 <div class="banner-carousel banner-carousel-1 mb-0">
  
-  <div class="banner-carousel-item" style="  background-image:url(images/slider-main/bg1.jpg);" >
+  <div class="banner-carousel-item" style="  background-image:url(images/slider-main/bg6.jpg);" >
     <div class="style"  style="
     background-color: rgba(11, 9, 9, 0.4);
     width: 100%;
@@ -71,7 +71,7 @@
     </div>
   </div>
 
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg2.jpg)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg7.jpg)">
     <div class="style"  style="
     background-color: rgba(11, 9, 9, 0.4);
     width: 100%;
@@ -94,7 +94,7 @@
     </div>
   </div>
 
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg3.jpg)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg8.jpg)">
     <div class="style"  style="
     background-color: rgba(11, 9, 9, 0.4);
     width: 100%;
